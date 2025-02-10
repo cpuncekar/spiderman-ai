@@ -7,9 +7,10 @@ This repository contains a collection of Spider-Man artwork images created using
 The repository includes the following images:
 
 1. **Image 1** - Spider-Man portrait close-up.
-2. **Image 2** - Spider-Man in an action pose, ready to swing.
-3. **Image 3** - Spider-Man mid-action with web-shooting gesture.
-4. **Image 4** - Spider-Man in action with a bold red background.
+2. ![Spider-Man Portait Close up](.0_1.jpg)
+3. **Image 2** - Spider-Man in an action pose, ready to swing.
+4. **Image 3** - Spider-Man mid-action with web-shooting gesture.
+5. **Image 4** - Spider-Man in action with a bold red background.
 
 ## Technologies Used
 
