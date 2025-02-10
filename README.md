@@ -11,7 +11,8 @@ The repository includes the following images:
 2. **Image 2** - Spider-Man in an action pose, ready to swing.
  ![Spider-Man Portait Close up](0_2.jpg)
 3. **Image 3** - Spider-Man mid-action with web-shooting gesture.
-4. **Image 4** - Spider-Man in action with a bold red background.
+![Spider-Man Portait Close up](0_3.jpg)
+5. **Image 4** - Spider-Man in action with a bold red background.
 
 ## Technologies Used
 
