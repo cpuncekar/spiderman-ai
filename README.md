@@ -7,13 +7,17 @@ This repository contains a collection of Spider-Man artwork images created using
 The repository includes the following images:
 
 1. **Image 1** - Spider-Man portrait close-up.
- ![Spider-Man Portait Close up](0_1.jpg)
 2. **Image 2** - Spider-Man in an action pose, ready to swing.
- ![Spider-Man Portait Close up](0_2.jpg)
 3. **Image 3** - Spider-Man mid-action with web-shooting gesture.
-![Spider-Man Portait Close up](0_3.jpg)
 4. **Image 4** - Spider-Man in action with a bold red background.
-![Spider-Man Portait Close up](0_4.jpg)
+
+## How the Artwork Was Created
+
+These images were generated using **MidJourney**, an AI-powered creative tool that generates images from textual prompts. Here's a brief overview of the process:
+
+1. **Textual Prompts**: Each image started with a carefully crafted textual prompt, focusing on specific aspects of Spider-Man’s appearance and dynamic poses. 
+2. **Refinement**: After receiving the initial AI-generated images, the prompts were refined to adjust the design, colors, and composition based on feedback from the AI.
+3. **Post-Processing**: Minor adjustments and enhancements were made in post-processing to ensure the images closely aligned with the desired style.
 
 ## Technologies Used
 
